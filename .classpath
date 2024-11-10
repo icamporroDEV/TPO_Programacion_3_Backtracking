@@ -6,7 +6,11 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="E:/Mis Documentos/UADE/Programación III/2024/2C/ViernesVirtual/TPO/LibreriasBlockchain.jar"/>
 	<classpathentry kind="lib" path="C:/Users/NACHO-PC/Desktop/Progra3TPO/LibreriasBlockchain.jar"/>
+=======
+	<classpathentry kind="lib" path="lib/LibreriasBlockchain.jar"/>
+>>>>>>> f715108 (Initial commit)
 	<classpathentry kind="output" path="bin"/>
 </classpath>
